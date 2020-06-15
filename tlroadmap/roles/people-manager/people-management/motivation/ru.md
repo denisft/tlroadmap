@@ -131,3 +131,6 @@
 - [Драйв! Что на самом деле нас мотивирует](https://youtu.be/GOE5zGWdrww)
 - [Обзор и объяснение терминов: стимул, мотив, потребность. Обзор теорий мотивации Неделя 1, 2](https://www.coursera.org/learn/psikhotekhnologii-raboty/home/welcome)
 - [Анна Обухова. Хочу/буду и деньги. Мотивация Agile команды](https://www.youtube.com/watch?v=OCgxIMhsy60)
+
+### Статьи
+- [Пример применения опросника 10k и встречь один-на-один как инструмента мотивации] https://www.e-xecutive.ru/career/hr-management/1991648-kak-ya-poteryal-dvuh-sotrudnikov-i-obrel-schastlivuu-komandu
